@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Developer GIF" hieght="99%" widt="50"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Man Mage Light Skin Tone" width="50" height="55" />
 </div>
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Mursalin+👋;Software+Developer;Mobile+%7C+Web+%7C+Desktop;AI+%26+IoT+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
@@ -23,7 +23,9 @@
     </a>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Developer GIF" width="70" height="70"/>
+</div>
 
 <!-- PROJECTS SECTION -->
 <div align="center">
