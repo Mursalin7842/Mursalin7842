@@ -24,7 +24,7 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Developer GIF" width="70" height="70"/>
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Developer GIF" width="140" height="140"/>
 </div>
 
 <!-- PROJECTS SECTION -->
@@ -161,6 +161,9 @@
 </table>
 
 <br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" alt="Developer GIF" width="70" height="70"/>
+</div>
 
 <!-- GITHUB STATS SECTION -->
 <div align="center">
